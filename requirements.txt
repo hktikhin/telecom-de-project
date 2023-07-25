@@ -1,0 +1,7 @@
+ipykernel
+Faker
+numpy
+google-cloud-storage
+psycopg2
+fastapi
+uvicorn[standard]

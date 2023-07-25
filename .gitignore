@@ -1,3 +1,18 @@
+# Notes
+notes.md
+
+# env
+.env
+
+# airflow
+airflow/logs
+
+# venv
+.venv/
+
+# github action
+.github/
+
 ### Vim ###
 [._]*.s[a-w][a-z]
 [._]s[a-w][a-z]
@@ -29,7 +44,7 @@ __pycache__
 trust-policy.json
 
 # data
-data*
+*.csv
 
 # logs
 logs/*
