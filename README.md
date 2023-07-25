@@ -4,7 +4,7 @@
 The Simulated Telecom Data Pipeline project is designed to practice data engineering skills by creating an end-to-end batch data pipeline. The aim is to pull data from multiple sources and transform it into a format that can be used to create visualizations. The data is simulated and includes billing statements, customer information, subscription status, plan details, and call detail records.
 
 ## Architecture Diagram
-![Architecture Diagram](assets\diagrams\architure.svg)
+![Architecture Diagram](./assets/diagrams/architure.svg)
 
 ## Tools Used
 The following tools were used to process the data:
